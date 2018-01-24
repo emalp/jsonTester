@@ -28,3 +28,4 @@ As a very good code explains itself not much comments have been used in the appl
 Read the code for yourself to explore the depths.
 
 Application starts at port 3000 unless a PORT environment is fed while starting the system.
+Note: The test scripts always test port 3000, change the tests script's 'host' if port or host was changed.
